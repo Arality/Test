@@ -1,4 +1,1 @@
-Test
-====
-
-Test
+Project for testing/learning Java/OOP
