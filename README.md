@@ -1,1 +1,1 @@
-Project for testing/learning Java/OOP
+Project for testing/learning Python/OOP
